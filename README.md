@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**guilherme-caze/guilherme-caze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑‍💻 Olá, eu sou o Guilherme Cazé
 
-Here are some ideas to get you started:
+ Atualmente, estou cursando o **4º semestre de Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**. Tenho 19 anos e sou apaixonado pelo mundo da **programação**, sempre buscando aprender algo novo e evoluir minhas habilidades todos os dias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre mim
+🎯 Atualmente, também atuo como **Gestor de Marketing** na rede de supermercados **Super Veneza**, onde desenvolvo minha visão estratégica, trabalho em equipe e comunicação — habilidades que somam muito no meu crescimento como desenvolvedor.
+
+🚀 Gosto especialmente do desenvolvimento de aplicações web e mobile, e estou sempre explorando novas tecnologias para criar soluções criativas e eficientes.
+
+## 🛠 Habilidades
+💻 Tenho conhecimento e já desenvolvi projetos utilizando:
+- **Java**
+- **C**
+- **JavaScript**
+- **React**
+- **React Native**
+- **Node.js**
+- **Expo**
+- **MySQL**
+- **Git/GitHub**
+
+
+

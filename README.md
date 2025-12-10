@@ -1,7 +1,7 @@
 
 # 🧑‍💻 Olá, eu sou o Guilherme Cazé
 
- Atualmente, estou cursando o **5º semestre de Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**. Tenho 19 anos e sou apaixonado pelo mundo da **programação**, sempre buscando aprender algo novo e evoluir minhas habilidades todos os dias.
+ Atualmente, Finalizei o meu curso **de Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**. Tenho 20 anos e sou apaixonado pelo mundo da **programação**, sempre buscando aprender algo novo e evoluir minhas habilidades todos os dias.
 
 
 ## 🚀 Sobre mim
